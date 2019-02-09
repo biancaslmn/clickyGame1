@@ -1,2 +1,2 @@
 
-export { default } from "./gameCard";
+export { default } from "./GameCard";

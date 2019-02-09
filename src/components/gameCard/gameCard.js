@@ -7,7 +7,7 @@ import "./gameCard.css";
 const GameCard = props => (
   <div className="card" onClick={props.imageClick}>
     <div className="img-container">
-      <img alt={props.image.replace(".jpg", "")} src={require("../../images/" + props.image)} />
+      <img alt="dessert" src={props.src} />
     </div>
   </div>
 );

@@ -10,7 +10,16 @@ import "./app.css";
 //sets state to 0 or empty
 class App extends Component {
   state = {
-    chocolate: [],
+    chocolate: [
+      {
+        id: 1,
+        image: '',
+      },
+      {
+        id: 2, 
+        image: ''
+      }
+    ],
     clickedChocolate: [],
     score: 0
   };
