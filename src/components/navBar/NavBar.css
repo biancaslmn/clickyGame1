@@ -21,10 +21,11 @@
   }
   
   li {
-    color: white;
+    color: #F4F2DC;
     padding: 15px 0;
   }
   
   body {
     font-size: 24px;
+    margin: 0 auto;
   }

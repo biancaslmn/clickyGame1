@@ -5,7 +5,7 @@ import "./Jumbotron.css";
 const Jumbotron = () => (
 	<header className = "header">
 		<h1>Clicky Game!</h1>
-		<h2>Click on each image no more than once. If you click on all 12 images once, you win!</h2>
+		<h2>Click on each image no more than once. If you click on all 6 images once, you win!</h2>
 
         </header>
 
