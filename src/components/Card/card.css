@@ -1,0 +1,12 @@
+
+.card {
+    height: 200px;
+    width: 200px;
+    background-color:grey;
+    margin: 10px;
+    margin-right: 35px;
+    float: left;
+    box-shadow: 10px 10px 10px grey;
+    /* position: absolute ; */
+    /* position: absolute; */
+}
